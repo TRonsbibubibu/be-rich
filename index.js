@@ -23,7 +23,7 @@ function day(deposit, annualRate) {
     }
 
     const finalAge = age + Math.round(time / 365);
-    console.log(chalk.red(name), 'will be financial freedom with', chalk.red(money.toFixed(2)), 'in your', chalk.red(finalAge),'old')
+    console.log(chalk.red(name), 'will be financial freedom with', chalk.red(money.toFixed(2)), 'in his', chalk.red(finalAge),'old')
 })();
 
 async function questionName() {
