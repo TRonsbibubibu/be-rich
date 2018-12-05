@@ -1,0 +1,22 @@
+{
+  "name": "be-rich",
+  "version": "1.0.0",
+  "description": "be rich via money management",
+  "main": "index.js",
+  "author": "liujiawei",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "inquirer": "^6.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TRonsbibubibu/be-rich"
+  },
+  "maintainers": [
+    "liujiawei"
+  ],
+  "scripts": {
+    "start": "node index.js"
+  }
+}
